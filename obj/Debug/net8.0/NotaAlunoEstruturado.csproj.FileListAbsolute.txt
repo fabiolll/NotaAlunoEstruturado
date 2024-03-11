@@ -1,0 +1,14 @@
+C:\Users\Fabio\Documents\csharp\projetos\NotaAlunoEstruturado\bin\Debug\net8.0\NotaAlunoEstruturado.exe
+C:\Users\Fabio\Documents\csharp\projetos\NotaAlunoEstruturado\bin\Debug\net8.0\NotaAlunoEstruturado.deps.json
+C:\Users\Fabio\Documents\csharp\projetos\NotaAlunoEstruturado\bin\Debug\net8.0\NotaAlunoEstruturado.runtimeconfig.json
+C:\Users\Fabio\Documents\csharp\projetos\NotaAlunoEstruturado\bin\Debug\net8.0\NotaAlunoEstruturado.dll
+C:\Users\Fabio\Documents\csharp\projetos\NotaAlunoEstruturado\bin\Debug\net8.0\NotaAlunoEstruturado.pdb
+C:\Users\Fabio\Documents\csharp\projetos\NotaAlunoEstruturado\obj\Debug\net8.0\NotaAlunoEstruturado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\csharp\projetos\NotaAlunoEstruturado\obj\Debug\net8.0\NotaAlunoEstruturado.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\csharp\projetos\NotaAlunoEstruturado\obj\Debug\net8.0\NotaAlunoEstruturado.AssemblyInfo.cs
+C:\Users\Fabio\Documents\csharp\projetos\NotaAlunoEstruturado\obj\Debug\net8.0\NotaAlunoEstruturado.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\csharp\projetos\NotaAlunoEstruturado\obj\Debug\net8.0\NotaAlunoEstruturado.dll
+C:\Users\Fabio\Documents\csharp\projetos\NotaAlunoEstruturado\obj\Debug\net8.0\refint\NotaAlunoEstruturado.dll
+C:\Users\Fabio\Documents\csharp\projetos\NotaAlunoEstruturado\obj\Debug\net8.0\NotaAlunoEstruturado.pdb
+C:\Users\Fabio\Documents\csharp\projetos\NotaAlunoEstruturado\obj\Debug\net8.0\NotaAlunoEstruturado.genruntimeconfig.cache
+C:\Users\Fabio\Documents\csharp\projetos\NotaAlunoEstruturado\obj\Debug\net8.0\ref\NotaAlunoEstruturado.dll
